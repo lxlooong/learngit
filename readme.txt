@@ -6,4 +6,4 @@ Git tracks changes
 
 my stupid boss perfers svn;
 
-creat a new branch is very quick and simple;
+creat a new branch is very quick & simple;
