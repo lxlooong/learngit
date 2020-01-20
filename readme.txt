@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 Git tracks changes
 
 my stupid boss perfers svn;
+
+creat a new branch is very quickly;
