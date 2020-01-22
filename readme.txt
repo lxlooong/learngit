@@ -7,3 +7,4 @@ Git tracks changes
 my stupid boss perfers svn;
 
 creat a new branch is very quick & simple;
+学到了分支管理策略这一节。
