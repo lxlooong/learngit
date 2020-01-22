@@ -6,4 +6,6 @@ Git tracks changes
 
 my stupid boss perfers svn;
 
-creat a new branch is very quick & simple;
+creat a new branch is very quick and  simple;
+
+主分支的bug应该把&去掉改成and
